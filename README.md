@@ -184,6 +184,6 @@ Aimed at demonstrating end-to-end data analytics capabilities for business decis
 
 👤 Author
 
-Your Name
+SUHAIL TP
 📧 suhailpzb@gmail.com
 💼 [https://www.linkedin.com/in/suhail-tp] 
