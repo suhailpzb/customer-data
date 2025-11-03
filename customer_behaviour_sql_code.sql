@@ -87,6 +87,7 @@ from customer
 group by age_group
 order by total_revenue desc;
 
+-- this code for median value convert in to numerical
 UPDATE customer
 SET review_rating = REGEXP_SUBSTR(review_rating, '[0-9]+\\.?[0-9]*')
 WHERE review_rating LIKE '<bound%';
